@@ -1003,23 +1003,3 @@ Time (s),Magnetic Field x (µT),Magnetic Field y (µT),Magnetic Field z (µT),Ab
 9.977759542,-3.871627808,-16.02082825,-43.09042358,46.13503055
 9.987704542,-3.906173706,-15.81578827,-42.69213867,45.69481432
 9.997650542,-3.92074585,-15.85300446,-43.11175537,46.101122
-property,value
-version,1.1.11
-build,10011
-fileFormat,1.15
-deviceModel,"iPhone12,1"
-deviceBrand,Apple
-deviceBoard,
-deviceManufacturer,
-deviceBaseOS,
-deviceCodename,
-deviceRelease,15.5
-depthFrontSensor,1
-depthFrontResolution,
-depthFrontRate,
-depthBackSensor,0
-depthBackResolution,
-depthBackRate,
-event,experiment time,system time,system time text
-START,0,1666808115,2022-10-26 14:15:14.792 UTC-04:00
-PAUSE,10.0085605,1666808125,2022-10-26 14:15:24.801 UTC-04:00
